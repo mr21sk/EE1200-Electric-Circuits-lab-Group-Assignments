@@ -5,6 +5,9 @@
 **Instructor:** Siva Vanjari Sir  
 **Group:** 03  
 
+## Group Leader
+**Krishna Patil** (Owner of the repository)
+
 ## Group Members
 1. Ayila Mokshith Kumar Reddy  
 2. Deepak Kumar Ahirwar  
@@ -34,9 +37,6 @@ This group assignment is a part of the Digital Systems course and involves the d
 - **Software:** (e.g., Verilog, VHDL)  
 - **Hardware:** (if applicable, mention FPGA boards, microcontrollers, etc.)  
 - **Documentation:** LaTeX, Microsoft Word, Google Docs  
-
-
-
 
 
 
